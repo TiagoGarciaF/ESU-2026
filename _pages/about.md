@@ -9,4 +9,6 @@ Tempor velit sit sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit
 [click here for map](https://tiagogarciaf.github.io/ESU-2026/assets/maps/Excersice.html)
 [Battlefields in France](https://tiagogarciaf.github.io/ESU-2026/assets/maps/France_Battlefields.html)
 
+[Kepler Prototype](https://tiagogarciaf.github.io/ESU-2026/assets/maps/Prototype.html)
+
 Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
